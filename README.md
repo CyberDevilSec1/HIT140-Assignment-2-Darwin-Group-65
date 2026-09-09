@@ -1,9 +1,6 @@
 # HIT140-Assignment-2-Darwin-Group-65
 HIT140 Foundations of Data Science - Assignment 2 - Darwin Group 65
 
-
-# HIT140 Foundations of Data Science – Assignment 2
-
 ## FIFA World Cup 2026 Data Analysis
 
 **Unit:** HIT140 Foundations of Data Science  
