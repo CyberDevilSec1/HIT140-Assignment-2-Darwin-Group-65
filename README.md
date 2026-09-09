@@ -241,24 +241,33 @@ The datasets required to reproduce the analysis are included in the `data/` fold
 ```text
 HIT140-Assignment-2-Darwin-Group-65/
 │
+├── README.md
 ├── 00_validate_project.py
 ├── 01_objective1_task1_assists.py
 ├── 02_objective1_task2_shooting_accuracy.py
 ├── 03_objective1_task3_goalkeeping.py
 ├── 04_objective1_task4_discipline.py
-├── README.md
 │
-└── data/
-    ├── fbref_2026_standard.csv
-    ├── fbref_2026_shooting.csv
-    ├── fbref_2026_goalkeeping.csv
-    ├── fbref_2026_misc.csv
-    ├── fbref_2026_playing_time.csv
-    ├── fifa_world_cup_2026_official_matches_104.csv
-    ├── task1_assists_sample.csv
-    ├── task2_shooting_sample.csv
-    ├── task3_goalkeeping_sample.csv
-    └── task4_discipline_sample.csv
+├── data/
+│   ├── fbref_2026_standard.csv
+│   ├── fbref_2026_shooting.csv
+│   ├── fbref_2026_goalkeeping.csv
+│   ├── fbref_2026_misc.csv
+│   ├── fbref_2026_playing_time.csv
+│   ├── fifa_world_cup_2026_official_matches_104.csv
+│   ├── task1_assists_sample.csv
+│   ├── task2_shooting_sample.csv
+│   ├── task3_goalkeeping_sample.csv
+│   └── task4_discipline_sample.csv
+│
+└── outputs/
+    ├── task1_assists_boxplot.png
+    ├── task1_assists_histogram.png
+    ├── task2_sot_percentage_boxplot.png
+    ├── task2_sot_percentage_histogram.png
+    ├── task3_save_percentage_boxplot.png
+    ├── task3_save_percentage_histogram.png
+    └── task4...png
 ```
 
 ---
