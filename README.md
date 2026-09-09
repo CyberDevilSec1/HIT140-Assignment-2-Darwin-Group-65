@@ -260,14 +260,16 @@ HIT140-Assignment-2-Darwin-Group-65/
 │   ├── task3_goalkeeping_sample.csv
 │   └── task4_discipline_sample.csv
 │
-└── outputs/
+└──── outputs/
     ├── task1_assists_boxplot.png
     ├── task1_assists_histogram.png
     ├── task2_sot_percentage_boxplot.png
     ├── task2_sot_percentage_histogram.png
     ├── task3_save_percentage_boxplot.png
     ├── task3_save_percentage_histogram.png
-    └── task4...png
+    ├── task4_fouls_per90_boxplot.png
+    └── task4_fouls_per90_histogram.png
+
 ```
 
 ---
