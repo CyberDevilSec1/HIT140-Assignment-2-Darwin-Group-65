@@ -482,15 +482,7 @@ The numbered Python filenames indicate the intended execution order.
 
 ---
 
-## 13. Group Information
-
-**Unit:** HIT140 Foundations of Data Science  
-**Assessment:** Assignment 2  
-**Campus:** Darwin  
-**Group:** Darwin Group 65
----
-
-## 14. Academic Integrity and AI Usage
+## 13. Academic Integrity and AI Usage
 
 Any use of artificial intelligence tools during the assessment is declared separately in the AI Usage Declaration Form in accordance with the unit requirements and CDU academic integrity requirements.
 
