@@ -9,6 +9,14 @@ HIT140 Foundations of Data Science - Assignment 2 - Darwin Group 65
 **Group:** Darwin Group 65  
 
 ---
+### Group Members
+
+| Student ID | Student Name |
+|---|---|
+| S397291 | Muhammad Kumail Abbas |
+| S397541 | Roman Bisural |
+| S397448 | Suriya Sankar |
+| S398777 | Khushi | 
 
 ## 1. Project Overview
 
@@ -480,16 +488,6 @@ The numbered Python filenames indicate the intended execution order.
 **Assessment:** Assignment 2  
 **Campus:** Darwin  
 **Group:** Darwin Group 65
-
-### Group Members
-
-| Student ID | Student Name |
-|---|---|
-| S397291 | Muhammad Kumail Abbas |
-| S397541 | Roman Bisural |
-| S397448 | Suriya Sankar |
-| S398777 | Khushi |
-
 ---
 
 ## 14. Academic Integrity and AI Usage
